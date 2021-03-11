@@ -1,2 +1,2 @@
-# TUGP
-Trackmania United Graphics Pack
+# Trackmania United Graphics Pack
+
