@@ -1,2 +1,2 @@
-# Trackmania United Graphics Pack
+# Trackmania United Transformation Pack
 
