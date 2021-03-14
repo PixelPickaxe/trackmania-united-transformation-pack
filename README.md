@@ -1,5 +1,5 @@
 # Trackmania United Transformation Pack
-### About
+## About
 Trackmania United Transformation Pack is an unofficial visual enhancement modification for Trackmania United Forever (TMU).
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
 
