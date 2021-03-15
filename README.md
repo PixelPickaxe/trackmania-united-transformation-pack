@@ -12,7 +12,7 @@ Almost every environment's textures have been replaced or modified to include te
 #### Bay
 #### Stadium
 ### Updated Menu Textures
-All menu textures have been updated with the menu texutres from Maniaplanet 3.
+All menu textures have been updated with the menu textures from Maniaplanet 3.
 |Before|After|
 | :------------: | :----------: |
 |![image](https://user-images.githubusercontent.com/32438273/111090511-56f31000-8506-11eb-8e6e-7ad64b695e0d.png)|![image](https://user-images.githubusercontent.com/32438273/111090313-b56bbe80-8505-11eb-9cd5-6e822365daa2.png)
