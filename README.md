@@ -30,6 +30,11 @@ The HUD now features the vignette overlay from TrackMania².
 
 - ### Updated Sounds
 In addition to new engine, surface, impact, and environment sounds, a few audio files have been replaced with their higher quality versions found in TrackMania².
+#### Desert Example
+#### Rally Example
+#### Island Example
+#### Bay Example
+#### Stadium Example
 ## Installation
 ## Post-Installation
 ## Uninstallation
