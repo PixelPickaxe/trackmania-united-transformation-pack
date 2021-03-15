@@ -23,7 +23,7 @@ All menu textures have been updated with the menu textures from Maniaplanet 3.
 
 
 ### Updated HUD
-The hud now features the modern vignette overlay.
+The HUD now features the vignette overlay from TrackMania².
 |Before |After|
 | :------------: | :----------: |
 |![image](https://user-images.githubusercontent.com/32438273/111091495-7c354d80-8509-11eb-8ec5-8595e184f3e9.png)|![image](https://user-images.githubusercontent.com/32438273/111091960-fb775100-850a-11eb-9449-ebb3bd2e3b69.png)|
