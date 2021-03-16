@@ -38,6 +38,7 @@ The HUD now features the vignette overlay from TrackMania².
 - ### Updated Sounds
 In addition to new engine, surface, impact, and environment sounds, a few audio files have been replaced with their higher quality versions found in TrackMania².
 The updated sounds are more detailed and improve feedback.
+For environmental, surface, and impact sounds, I did my best to pick the sounds that most closely resembled the original ones found in TMU.
 
 ## Installation
 
