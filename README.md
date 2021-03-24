@@ -17,7 +17,6 @@ Almost every environment's textures have been replaced or modified to include te
 |![A900135 (2)](https://user-images.githubusercontent.com/32438273/111344405-b9f1bd80-8652-11eb-822e-be81107028f6.png)|![A9_00135 (2)](https://user-images.githubusercontent.com/32438273/111344224-90d12d00-8652-11eb-9055-a5db7aabf17d.png)|
 |![A900389 (2)](https://user-images.githubusercontent.com/32438273/111344303-a181a300-8652-11eb-9c4c-56bbeed3664c.png)|![A9_00389 (2)](https://user-images.githubusercontent.com/32438273/111344450-c118cb80-8652-11eb-8748-7ce3c93bfc1f.png)|
 |![A500014](https://user-images.githubusercontent.com/32438273/111346235-67b19c00-8654-11eb-8543-8757b55030f4.png)|![A5_00014 (2)](https://user-images.githubusercontent.com/32438273/111346255-6d0ee680-8654-11eb-9fa8-02a169795e03.png)|
-|![A500463 (2)](https://user-images.githubusercontent.com/32438273/111346297-76984e80-8654-11eb-947d-06fd42aaa1b8.png)|![A5_00463 (2)](https://user-images.githubusercontent.com/32438273/111346438-9891d100-8654-11eb-9790-fe6d18894c5d.png)|
 - ### Updated Menu Textures
 All menu textures have been updated with the menu textures from Maniaplanet 3.
 |Before|After|
