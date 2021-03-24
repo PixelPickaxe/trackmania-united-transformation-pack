@@ -9,7 +9,6 @@ Almost every environment's textures have been replaced or modified to include te
 #### Desert
 |Before|After|
 | :------------: | :----------: |
-||![sda200268](https://user-images.githubusercontent.com/32438273/112354830-7414a500-8ca3-11eb-81f8-ce41924577cb.jpg)|
 ||![sda200629](https://user-images.githubusercontent.com/32438273/112354929-8f7fb000-8ca3-11eb-861f-cfb59490029b.jpg)|
 |![c10](https://user-images.githubusercontent.com/32438273/112358603-e0dd6e80-8ca6-11eb-9be8-b47628a13a74.jpg)|![c11](https://user-images.githubusercontent.com/32438273/112358497-c86d5400-8ca6-11eb-9af7-5bedb9b1cdb3.jpg)|
 |![b40](https://user-images.githubusercontent.com/32438273/112357315-c9ea4c80-8ca5-11eb-8c6f-106bea8a25d7.jpg)|![b41](https://user-images.githubusercontent.com/32438273/112356193-b985a200-8ca4-11eb-8ed6-efba7b40dd61.jpg)|
