@@ -5,18 +5,19 @@ Its goal is to modernize the game's graphics, bringing them closer to today's st
 
 ## Features
 - ### Updated Environment Textures
-Almost every environment's textures have been replaced or modified to include textures from their respective TrackMania² environments (except for Alpine and Coast since those never got remade). This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
-#### Desert
+Every environment's textures have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
+#### DESERT
 |Before|After|
 | :------------: | :----------: |
 |![a20](https://user-images.githubusercontent.com/32438273/112359350-90b2dc00-8ca7-11eb-8cfd-1755d954647b.jpg)|![sda200629](https://user-images.githubusercontent.com/32438273/112354929-8f7fb000-8ca3-11eb-861f-cfb59490029b.jpg)|
 |![c10](https://user-images.githubusercontent.com/32438273/112358603-e0dd6e80-8ca6-11eb-9be8-b47628a13a74.jpg)|![c11](https://user-images.githubusercontent.com/32438273/112358497-c86d5400-8ca6-11eb-9af7-5bedb9b1cdb3.jpg)|
 |![b40](https://user-images.githubusercontent.com/32438273/112357315-c9ea4c80-8ca5-11eb-8c6f-106bea8a25d7.jpg)|![b41](https://user-images.githubusercontent.com/32438273/112356193-b985a200-8ca4-11eb-8ed6-efba7b40dd61.jpg)|
 
-#### Rally
-#### Island
-#### Bay
-#### Stadium
+#### RALLY
+#### ISLAND
+#### BAY
+#### STADIUM
+#### COAST
 |Before|After|
 | :------------: | :----------: |
 |![0](https://user-images.githubusercontent.com/32438273/112340762-3f9aec00-8c97-11eb-92db-1c2b6acacac4.jpg)|![1](https://user-images.githubusercontent.com/32438273/112340785-4590cd00-8c97-11eb-99a4-db795740d153.jpg)|
