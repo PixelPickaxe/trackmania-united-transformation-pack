@@ -13,9 +13,10 @@ Almost every environment's textures have been replaced or modified to include te
 #### Stadium
 |Before|After|
 | :------------: | :----------: |
-|![image](https://user-images.githubusercontent.com/32438273/111348064-36d26680-8656-11eb-9c31-f8ece750c7c6.png)|![image](https://user-images.githubusercontent.com/32438273/111348095-3e920b00-8656-11eb-9b7f-7e2c629449a0.png)|
-|![A900135 (2)](https://user-images.githubusercontent.com/32438273/111344405-b9f1bd80-8652-11eb-822e-be81107028f6.png)|![A9_00135 (2)](https://user-images.githubusercontent.com/32438273/111344224-90d12d00-8652-11eb-9055-a5db7aabf17d.png)|
-|![A900389 (2)](https://user-images.githubusercontent.com/32438273/111344303-a181a300-8652-11eb-9c4c-56bbeed3664c.png)|![A9_00389 (2)](https://user-images.githubusercontent.com/32438273/111344450-c118cb80-8652-11eb-8748-7ce3c93bfc1f.png)|
+|![0](https://user-images.githubusercontent.com/32438273/112340762-3f9aec00-8c97-11eb-92db-1c2b6acacac4.jpg)|![1](https://user-images.githubusercontent.com/32438273/112340785-4590cd00-8c97-11eb-99a4-db795740d153.jpg)|
+|![2](https://user-images.githubusercontent.com/32438273/112340867-58a39d00-8c97-11eb-8dc6-821ef67cbe9b.jpg)
+|![3](https://user-images.githubusercontent.com/32438273/112340850-56414300-8c97-11eb-8065-f185f66aad13.jpg)|
+|![4](https://user-images.githubusercontent.com/32438273/112340927-63f6c880-8c97-11eb-840b-1a086ca7ba30.jpg)|![5](https://user-images.githubusercontent.com/32438273/112340956-6822e600-8c97-11eb-8d3e-0a84962061ee.jpg)|
 |![A500014](https://user-images.githubusercontent.com/32438273/111346235-67b19c00-8654-11eb-8543-8757b55030f4.png)|![A5_00014 (2)](https://user-images.githubusercontent.com/32438273/111346255-6d0ee680-8654-11eb-9fa8-02a169795e03.png)|
 - ### Updated Menu Textures
 All menu textures have been updated with the menu textures from Maniaplanet 3.
