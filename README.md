@@ -7,6 +7,13 @@ Its goal is to modernize the game's graphics, bringing them closer to today's st
 - ### Updated Environment Textures
 Almost every environment's textures have been replaced or modified to include textures from their respective TrackMania² environments (except for Alpine and Coast since those never got remade). This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
 #### Desert
+|Before|After|
+| :------------: | :----------: |
+||![sda200268](https://user-images.githubusercontent.com/32438273/112354830-7414a500-8ca3-11eb-81f8-ce41924577cb.jpg)|
+||![sda200629](https://user-images.githubusercontent.com/32438273/112354929-8f7fb000-8ca3-11eb-861f-cfb59490029b.jpg)|
+|||
+|||
+
 #### Rally
 #### Island
 #### Bay
