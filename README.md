@@ -33,8 +33,8 @@ All menu textures have been updated with the menu textures from Maniaplanet 3.
 The HUD now features the vignette overlay from TrackMania².
 |Before |After|
 | :------------: | :----------: |
-|![6](https://user-images.githubusercontent.com/32438273/112343901-f304e000-8c99-11eb-9c24-333ba6dc0882.jpg)|![image](https://user-images.githubusercontent.com/32438273/111091960-fb775100-850a-11eb-9449-ebb3bd2e3b69.png)|
-|![8](https://user-images.githubusercontent.com/32438273/112343961-01eb9280-8c9a-11eb-970a-70b79b147905.jpg)||
+|![6](https://user-images.githubusercontent.com/32438273/112343901-f304e000-8c99-11eb-9c24-333ba6dc0882.jpg)|![7](https://user-images.githubusercontent.com/32438273/112345510-7a9f1e80-8c9b-11eb-8357-dc814627a7be.jpg)|
+|![8](https://user-images.githubusercontent.com/32438273/112343961-01eb9280-8c9a-11eb-970a-70b79b147905.jpg)|![9](https://user-images.githubusercontent.com/32438273/112345744-b1753480-8c9b-11eb-98f9-7d17c2c18be8.jpg)|
 
 - ### Updated Sounds
 In addition to new menu, engine, surface, impact, and environment sounds, a few audio files have been replaced with their higher quality versions found in TrackMania².
