@@ -24,7 +24,7 @@ All menu textures have been updated with the menu textures from Maniaplanet 3.
 | :------------: | :----------: |
 |![image](https://user-images.githubusercontent.com/32438273/111090511-56f31000-8506-11eb-8e6e-7ad64b695e0d.png)|![image](https://user-images.githubusercontent.com/32438273/111090313-b56bbe80-8505-11eb-9cd5-6e822365daa2.png)
 |![image](https://user-images.githubusercontent.com/32438273/111089809-d3d0ba80-8503-11eb-82d1-8434d00868c5.png)|![image](https://user-images.githubusercontent.com/32438273/111089837-e3500380-8503-11eb-9434-723b8fe43db4.png)|
-|![image](https://user-images.githubusercontent.com/32438273/111090015-7c7f1a00-8504-11eb-98c3-5e399d4e2edb.png)|![image](https://user-images.githubusercontent.com/32438273/111089992-6cffd100-8504-11eb-921a-ecfdec3d429d.png)|
+|![image](https://user-images.githubusercontent.com/32438273/111090015-7c7f1a00-8504-11eb-98c3-5e399d4e2edb.png)|
 
 
 
