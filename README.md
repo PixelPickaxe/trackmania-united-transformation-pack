@@ -18,12 +18,9 @@ Every environment's textures (except for Alpine) have been replaced or modified 
 |Before|After|
 | :------------: | :----------: |
 |![1before](https://user-images.githubusercontent.com/32438273/115127699-89c97180-9fa6-11eb-9703-a81505a68617.jpg)|![1after](https://user-images.githubusercontent.com/32438273/115127701-8c2bcb80-9fa6-11eb-8a8e-8169a3ad1ff9.jpg)|
-|![2before](https://user-images.githubusercontent.com/32438273/115127702-8f26bc00-9fa6-11eb-91fc-c185156060c7.jpg)
-|![2after](https://user-images.githubusercontent.com/32438273/115127703-91891600-9fa6-11eb-9e64-87e782fe80de.jpg)|
-|![3before](https://user-images.githubusercontent.com/32438273/115127706-9352d980-9fa6-11eb-8826-e50580d00db7.jpg)
-|![3after](https://user-images.githubusercontent.com/32438273/115127707-95b53380-9fa6-11eb-9d2c-1beca8a9dfa2.jpg)|
-|![4before](https://user-images.githubusercontent.com/32438273/115127710-98b02400-9fa6-11eb-8b92-18343d772185.jpg)
-|![4after](https://user-images.githubusercontent.com/32438273/115127711-9bab1480-9fa6-11eb-9421-dbca0f6d706c.jpg)|
+|![2before](https://user-images.githubusercontent.com/32438273/115127702-8f26bc00-9fa6-11eb-91fc-c185156060c7.jpg)|![2after](https://user-images.githubusercontent.com/32438273/115127703-91891600-9fa6-11eb-9e64-87e782fe80de.jpg)|
+|![3before](https://user-images.githubusercontent.com/32438273/115127706-9352d980-9fa6-11eb-8826-e50580d00db7.jpg)|![3after](https://user-images.githubusercontent.com/32438273/115127707-95b53380-9fa6-11eb-9d2c-1beca8a9dfa2.jpg)|
+|![4before](https://user-images.githubusercontent.com/32438273/115127710-98b02400-9fa6-11eb-8b92-18343d772185.jpg)|![4after](https://user-images.githubusercontent.com/32438273/115127711-9bab1480-9fa6-11eb-9421-dbca0f6d706c.jpg)|
 ### ISLAND
 |Before|After|
 | :------------: | :----------: |
