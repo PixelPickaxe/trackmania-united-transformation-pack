@@ -5,7 +5,15 @@ Its goal is to modernize the game's graphics, bringing them closer to today's st
 
 # Features
 - ### Updated Environment Textures
-Every environment's textures (except for Alpine) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
+Every environment's textures (except for Snow) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
+
+### STADIUM
+|Before|After|
+| :------------: | :----------: |
+|![0](https://user-images.githubusercontent.com/32438273/112340762-3f9aec00-8c97-11eb-92db-1c2b6acacac4.jpg)|![1](https://user-images.githubusercontent.com/32438273/112340785-4590cd00-8c97-11eb-99a4-db795740d153.jpg)|
+|![2](https://user-images.githubusercontent.com/32438273/112340867-58a39d00-8c97-11eb-8dc6-821ef67cbe9b.jpg)|![3](https://user-images.githubusercontent.com/32438273/112340850-56414300-8c97-11eb-8065-f185f66aad13.jpg)|
+|![4](https://user-images.githubusercontent.com/32438273/112340927-63f6c880-8c97-11eb-840b-1a086ca7ba30.jpg)|![5](https://user-images.githubusercontent.com/32438273/112340956-6822e600-8c97-11eb-8d3e-0a84962061ee.jpg)|
+|![6](https://user-images.githubusercontent.com/32438273/112341440-cea80400-8c97-11eb-8e12-dc85e7539167.jpg)|![7](https://user-images.githubusercontent.com/32438273/112341471-d49de500-8c97-11eb-8700-7ce60658c570.jpg)|
 ### DESERT
 |Before|After|
 | :------------: | :----------: |
@@ -13,14 +21,13 @@ Every environment's textures (except for Alpine) have been replaced or modified 
 |![c10](https://user-images.githubusercontent.com/32438273/112358603-e0dd6e80-8ca6-11eb-9be8-b47628a13a74.jpg)|![c11](https://user-images.githubusercontent.com/32438273/112358497-c86d5400-8ca6-11eb-9af7-5bedb9b1cdb3.jpg)|
 |![b40](https://user-images.githubusercontent.com/32438273/112357315-c9ea4c80-8ca5-11eb-8c6f-106bea8a25d7.jpg)|![b41](https://user-images.githubusercontent.com/32438273/112356193-b985a200-8ca4-11eb-8ed6-efba7b40dd61.jpg)|
 |![c0](https://user-images.githubusercontent.com/32438273/112362366-bd1c2780-8caa-11eb-8361-dcbb21083c73.jpg)|![c1](https://user-images.githubusercontent.com/32438273/112363043-77ac2a00-8cab-11eb-92ad-d76b66ffda92.jpg)|
-
-### RALLY
+### COAST
 |Before|After|
 | :------------: | :----------: |
-|![1before](https://user-images.githubusercontent.com/32438273/115127699-89c97180-9fa6-11eb-9703-a81505a68617.jpg)|![1after](https://user-images.githubusercontent.com/32438273/115127701-8c2bcb80-9fa6-11eb-8a8e-8169a3ad1ff9.jpg)|
-|![2before](https://user-images.githubusercontent.com/32438273/115127702-8f26bc00-9fa6-11eb-91fc-c185156060c7.jpg)|![2after](https://user-images.githubusercontent.com/32438273/115127703-91891600-9fa6-11eb-9e64-87e782fe80de.jpg)|
-|![3before](https://user-images.githubusercontent.com/32438273/115127706-9352d980-9fa6-11eb-8826-e50580d00db7.jpg)|![3after](https://user-images.githubusercontent.com/32438273/115127707-95b53380-9fa6-11eb-9d2c-1beca8a9dfa2.jpg)|
-|![4before](https://user-images.githubusercontent.com/32438273/115127710-98b02400-9fa6-11eb-8b92-18343d772185.jpg)|![4after](https://user-images.githubusercontent.com/32438273/115127711-9bab1480-9fa6-11eb-9421-dbca0f6d706c.jpg)|
+|||
+|||
+|||
+|||
 ### ISLAND
 |Before|After|
 | :------------: | :----------: |
@@ -35,21 +42,13 @@ Every environment's textures (except for Alpine) have been replaced or modified 
 |||
 |||
 |||
-### COAST
+### RALLY
 |Before|After|
 | :------------: | :----------: |
-|||
-|||
-|||
-|||
-### STADIUM
-|Before|After|
-| :------------: | :----------: |
-|![0](https://user-images.githubusercontent.com/32438273/112340762-3f9aec00-8c97-11eb-92db-1c2b6acacac4.jpg)|![1](https://user-images.githubusercontent.com/32438273/112340785-4590cd00-8c97-11eb-99a4-db795740d153.jpg)|
-|![2](https://user-images.githubusercontent.com/32438273/112340867-58a39d00-8c97-11eb-8dc6-821ef67cbe9b.jpg)|![3](https://user-images.githubusercontent.com/32438273/112340850-56414300-8c97-11eb-8065-f185f66aad13.jpg)|
-|![4](https://user-images.githubusercontent.com/32438273/112340927-63f6c880-8c97-11eb-840b-1a086ca7ba30.jpg)|![5](https://user-images.githubusercontent.com/32438273/112340956-6822e600-8c97-11eb-8d3e-0a84962061ee.jpg)|
-|![6](https://user-images.githubusercontent.com/32438273/112341440-cea80400-8c97-11eb-8e12-dc85e7539167.jpg)|![7](https://user-images.githubusercontent.com/32438273/112341471-d49de500-8c97-11eb-8700-7ce60658c570.jpg)|
-
+|![1before](https://user-images.githubusercontent.com/32438273/115127699-89c97180-9fa6-11eb-9703-a81505a68617.jpg)|![1after](https://user-images.githubusercontent.com/32438273/115127701-8c2bcb80-9fa6-11eb-8a8e-8169a3ad1ff9.jpg)|
+|![2before](https://user-images.githubusercontent.com/32438273/115127702-8f26bc00-9fa6-11eb-91fc-c185156060c7.jpg)|![2after](https://user-images.githubusercontent.com/32438273/115127703-91891600-9fa6-11eb-9e64-87e782fe80de.jpg)|
+|![3before](https://user-images.githubusercontent.com/32438273/115127706-9352d980-9fa6-11eb-8826-e50580d00db7.jpg)|![3after](https://user-images.githubusercontent.com/32438273/115127707-95b53380-9fa6-11eb-9d2c-1beca8a9dfa2.jpg)|
+|![4before](https://user-images.githubusercontent.com/32438273/115127710-98b02400-9fa6-11eb-8b92-18343d772185.jpg)|![4after](https://user-images.githubusercontent.com/32438273/115127711-9bab1480-9fa6-11eb-9421-dbca0f6d706c.jpg)|
 - ### Updated Menu Textures
 All menu textures have been updated with the menu textures from Maniaplanet 3.
 |Before|After|
