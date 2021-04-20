@@ -80,3 +80,4 @@ For environmental, surface, and impact sounds, I did my best to pick the sounds 
 ## Legal
 All Rights Reserved. Ubisoft, Ubi.com, Maniaplanet, the Maniaplanet logo, Nadeo, the Ubisoft logo, and the Nadeo logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.
 ## License  
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
