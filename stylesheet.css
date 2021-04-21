@@ -1,25 +1,39 @@
+@charset "utf-8";
+/** 
+ * TrackMania United Forever Transformation Pack Website Stylesheet
+ * @url https://pixelpickaxe.github.io/trackmania-united-transformation-pack/index
+ * @copyright (c) Nick Yount 2021                                      
+*/
+
 body {
 	background: #161616;
 	padding: 2em;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
-	color:#ffffff
+	color: #ffffff
 }
 
 #logo {
-	background-color:#000000;
-	padding:1em;
+	background-color: #000000;
+	padding: 1em;
 }
-#sidebar	{
-	background-color:#000000;
-	font-size:xx-large;
-	padding-top:.25em;
+
+#sidebar {
+	background-color: #000000;
+	font-size: xx-large;
+	padding-top: .25em;
 	padding-bottom: .25em;
 }
-#content{font-size:large}
-#footer{font-size:medium}
+
+#content {
+	font-size: large
+}
+
+#footer {
+	font-size: medium
+}
 
 a {
-	text-decoration:underline;
+	text-decoration: underline;
 	color: #bbbbbb;
 }
 
