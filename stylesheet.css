@@ -2,23 +2,20 @@
 	padding: 0;
 	margin: 0;
 }
-
-div id="header"{
-	color:#ffffff;
-}
-
 body {
 	background: #161616;
 	padding: 2em;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size: 16px;
 }
-p{
-	color:#ffffff
+div id="header"{
+	color:#ffffff;
 }
-strong {
-	color: #ffffff
+<div id="content">{
+	color:#ffffff;
 }
-a {
-	color: #ffffff
+div id="footer">{
+	color:#ffffff;
 }
+
+
