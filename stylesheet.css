@@ -25,17 +25,18 @@ div.navbar {
 	display: flex;
 	padding: 0.2em;
 	justify-content: center space-evenly;
-	align-items: left;
 	border-left: solid;
 	border-right: solid;
 	border-bottom: dashed;
 	border-color: black;
 	flex-direction: row;
 	background-color: #222340;
-}
-
-div.nav {
 	font-size: x-large;
+}
+hr{
+	border-color:transparent;
+}
+div.nav {
 	padding: .2em;
 }
 
