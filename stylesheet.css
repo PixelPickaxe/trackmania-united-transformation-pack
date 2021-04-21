@@ -3,9 +3,20 @@ body {
 	padding: 2em;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size: 16px;
-	color: #ffffff;
+	color:#ffffff
 }
 
-div {
+#header {
+font-size:xx-large
+}
+#content{font-size:large}
+#footer{font-size:medium}
 
+a {
+	text-decoration: underline;
+	color: #333333;
+}
+
+a:hover {
+	color: #00baff;
 }
