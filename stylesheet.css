@@ -17,7 +17,7 @@ body {
 .fadein:hover {
 	opacity: 1;
 }
-
+	
 .fadeout:hover,
 .fadein {
 	opacity: 0.75;
