@@ -17,26 +17,40 @@ header {
 	padding: 1em;
 }
 
-#sidebar {
-	background-color: #000000;
-	font-size: xx-large;
-	padding-top: .25em;
-	padding-bottom: .25em;
+div.navbar {
+	position: static;
+	left: auto;
+	display: flex;
+	padding:0.1em;	
+	justify-content: center space-evenly;
+	align-items: left;
+	border-left:solid;
+	border-right:solid;
+	border-bottom:dashed;
+	border-color:black;
+	flex-direction: row;
+	background-color: #222340;
 }
 
-#content {
-	font-size: large
+div.nav {
+	font-size: x-large;
+	height: auto;
+	padding:.2em
+}
+
+div.content {
+	font-size: larger;
 }
 
 footer {
-		background-color: #223240;
-		padding: 2em;
+	background-color: #222340;
+	padding: 2em;
 	font-size: medium
 }
 
 a {
-	text-decoration: underline;
-	color: #bbbbbb;
+
+	color: #ffffff;
 }
 
 a:hover {
