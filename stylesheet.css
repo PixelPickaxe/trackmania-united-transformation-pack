@@ -4,9 +4,13 @@
 }
 
 img {
-	border: 200px;
 }
 
 body {
 	background: #161616
+	margin: 0;
+	padding: 0;
+	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;	
 }
