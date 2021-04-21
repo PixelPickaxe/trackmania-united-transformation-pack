@@ -7,35 +7,36 @@
 
 body {
 	background: #161616;
-	padding: 2em;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
-	color: #ffffff
+	color: #ffffff;
+	width: auto;
 }
 
 header {
 	background-color: #000000;
 	padding: 1em;
 }
+div.logo{
+	width: auto;
+}
 
 div.navbar {
 	position: static;
-	left: auto;
 	display: flex;
-	padding:0.1em;	
+	padding: 0.2em;
 	justify-content: center space-evenly;
 	align-items: left;
-	border-left:solid;
-	border-right:solid;
-	border-bottom:dashed;
-	border-color:black;
+	border-left: solid;
+	border-right: solid;
+	border-bottom: dashed;
+	border-color: black;	
 	flex-direction: row;
 	background-color: #222340;
 }
 
 div.nav {
 	font-size: x-large;
-	height: auto;
-	padding:.2em
+	padding: .2em
 }
 
 div.content {
@@ -44,8 +45,14 @@ div.content {
 
 footer {
 	background-color: #222340;
-	padding: 2em;
+	padding: .5em;
 	font-size: medium
+}
+
+div.footblock {
+	position: static;
+	flex-direction: column;
+	background-color: #222340;
 }
 
 a {
