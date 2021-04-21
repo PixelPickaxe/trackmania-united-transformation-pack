@@ -1,14 +1,10 @@
-* {
-	padding: 0;
-	margin: 0;
-}
 body {
 	background: #161616;
 	padding: 2em;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size: 16px;
 }
-div header{
+div .header{
 	color:#ffffff;
 }
 <div id="content">{
