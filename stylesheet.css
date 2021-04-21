@@ -4,12 +4,7 @@ body {
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size: 16px;
 }
-header{
-	color:#ffffff;
-}
-div id="content"{
-	color:#ffffff;
-}
-div id="footer">{
-	color:#ffffff;
+
+div {
+	color: #ffffff;
 }
