@@ -4,7 +4,7 @@
 }
 
 img {
-	
+
 }
 
 body {
@@ -13,20 +13,8 @@ body {
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size: 16px;
 }
-h1 {
-	color: #ffffff
-}
-h2 {
-	color: #ffffff
-}
-h3 {
-	color: #ffffff
-}
-h4 {
-	color: #ffffff
-}
-h5 {
-	color: #ffffff
+p{
+	color:#ffffff
 }
 strong {
 	color: #ffffff
