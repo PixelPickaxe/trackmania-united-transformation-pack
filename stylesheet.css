@@ -25,7 +25,6 @@ body {
 	background: #161616;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	color: #ffffff;
-
 }
 
 hr {
@@ -94,12 +93,13 @@ img.home-about-img {
 	margin-top: 5px
 }
 
+div.home-features {
+	font-size: large;
+}
+
 h3.home-features {
 	background-color: black;
 	padding-left: .2em;
-}
-div.home-features{
-		font-size: larger;
 }
 
 div.home-menu-table {
@@ -118,6 +118,7 @@ table.home-menu-table {
 table.home-menu-table tr td img {
 	width: 480px
 }
+
 div.home-hud-table {
 	width: auto;
 	display: flex;
@@ -132,8 +133,9 @@ table.home-hud-table {
 }
 
 table.home-hud-table tr td img {
-	width:640px
+	width: 640px
 }
+
 /* MAIN HOME END */
 
 /*------------------------------------------------------------*/
