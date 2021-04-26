@@ -5,12 +5,38 @@
  * @copyright (c) Nick Yount 2021                                      
 */
 
+/*------------------------------------------------------------*/
+
+/*SETTINGS 🌎*/
+
+a {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #00baff;
+}
+
 body {
 	background: #161616;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	color: #ffffff;
 	font-size: large
 }
+
+hr {
+	border-color: transparent;
+}
+
+/* SETTINGS END */
+
+/*------------------------------------------------------------*/
+
+/* HEADING 🌎*/
 
 header {
 	background-color: #000000;
@@ -35,39 +61,85 @@ div.navbar {
 	font-size: x-large;
 }
 
-hr {
-	border-color: transparent;
-}
-
 div.nav {
 	padding: .2em;
 }
 
-div.content {
+/* HEADING END */
+
+/*------------------------------------------------------------*/
+
+/* MAIN HOME 🏚️*/
+
+div.home-content {
 	display: flex;
 	justify-content: space-evenly;
 	margin-left: .25em;
 }
-img.about-img{
-height:250px;
-background-color: #000000;
-padding:.85em
 
-}
 div.desc h3 {
 	background-color: black;
-	padding-left:.2em
+	padding-left: .2em
 }
-h3.features{
+
+img.home-about-img {
+	height: 200px;
+	background-color: #000000;
+	padding: .85em
+}
+
+h3.home-features {
 	background-color: black;
-	padding-left:.2em
+	padding-left: .2em
 }
+
+/* MAIN HOME END */
+
+/*------------------------------------------------------------*/
+
+/* MAIN CONTACT☎️*/
+
+/* MAIN CONTACT END*/
+
+/*------------------------------------------------------------*/
+
+/* MAIN DOWNLOAD ⬇️*/
+
+/* MAIN DOWNLOAD END*/
+
+/*------------------------------------------------------------*/
+
+/* MAIN HELP ❓*/
+
+/* MAIN HELP END */
+
+/*------------------------------------------------------------*/
+
+/*MAIN LEGAL⚖️*/
+
+/* MAIN LEGAL END*/
+
+/*------------------------------------------------------------*/
+
+/* DONATION 🌎*/
+
+div.kofi {
+	display: flex;
+	padding-top: 4em;
+}
+
+/* DONATION END */
+
+/*------------------------------------------------------------*/
+
+/* FOOTER 🌎*/
+
 div.footblock {
 	position: static;
 	font-weight: bold;
 	background-color: #222340;
 	padding: .5em;
-	font-size:14px
+	font-size: 14px
 }
 
 div.footblock-cc {
@@ -79,14 +151,6 @@ div.footblock-cc {
 	flex-direction: row;
 }
 
-a {
-	color: #ffffff;
-}
+/* FOOTER END */
 
-a:visited {
-	color: #ffffff;
-}
-
-a:hover {
-	color: #00baff;
-}
+/*------------------------------------------------------------*/
