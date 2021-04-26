@@ -89,7 +89,8 @@ div.home-desc h3 {
 img.home-about-img {
 	height: 200px;
 	background-color: #000000;
-	padding: .85em
+	padding: .85em;
+	margin-top: 5px
 }
 
 h3.home-features {
@@ -97,27 +98,39 @@ h3.home-features {
 	padding-left: .2em
 }
 
+div.home-menu-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+}
+
 table.home-menu-table {
 	background-color: black;
 	text-align: center;
-	margin:auto;
+	margin: auto;
 	padding: 2.5px
 }
 
 table.home-menu-table tr td img {
 	width: 480px
 }
+div.home-hud-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+}
 
 table.home-hud-table {
 	background-color: black;
 	text-align: center;
-	margin:auto;
+	margin: auto;
 	padding: 2.5px
 }
 
 table.home-hud-table tr td img {
 	width: 480px
 }
+
 /* MAIN HOME END */
 
 /*------------------------------------------------------------*/
