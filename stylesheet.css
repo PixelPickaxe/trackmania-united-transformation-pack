@@ -143,6 +143,7 @@ table.home-des-table {
 table.home-des-table tr td img {
 	width: 240px
 }
+
 div.home-coas-table {
 	width: auto;
 	display: flex;
@@ -177,6 +178,7 @@ table.home-isla-table {
 table.home-isla-table tr td img {
 	width: 240px
 }
+
 div.home-bay-table {
 	width: auto;
 	display: flex;
@@ -211,6 +213,7 @@ table.home-rally-table {
 table.home-rally-table tr td img {
 	width: 240px
 }
+
 div.home-menu-table {
 	width: auto;
 	display: flex;
