@@ -25,7 +25,7 @@ body {
 	background: #161616;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	color: #ffffff;
-	font-size: large;
+
 }
 
 hr {
@@ -79,6 +79,7 @@ div.home-content {
 	display: flex;
 	justify-content: space-evenly;
 	margin-left: .25em;
+	font-size: large;
 }
 
 div.home-desc h3 {
@@ -95,7 +96,10 @@ img.home-about-img {
 
 h3.home-features {
 	background-color: black;
-	padding-left: .2em
+	padding-left: .2em;
+}
+div.home-features{
+		font-size: larger;
 }
 
 div.home-menu-table {
