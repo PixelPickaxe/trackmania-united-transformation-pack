@@ -1,11 +1,11 @@
 # TrackMania United Transformation Pack
 ## About
-**TrackMania United Transformation Pack** is an unofficial visual enhancement modification for TrackMania United Forever (TMU).
+**TrackMania United Transformation Pack** (TMUTP) is an unofficial visual enhancement modification for TrackMania United Forever (TMU).
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
 
 # Features
 - ### Updated Environment Textures
-Every environment's textures (except for Snow) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo ever achieved with the game.
+Each environment's textures (except for Snow) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo envisioned originally.
 
 ### STADIUM
 |Before|After|
