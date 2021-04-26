@@ -9,6 +9,7 @@ body {
 	background: #161616;
 	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	color: #ffffff;
+	font-size: large
 }
 
 header {
@@ -43,7 +44,6 @@ div.nav {
 }
 
 div.content {
-	font-size: larger;
 	display: flex;
 	justify-content: space-evenly;
 	margin-left: .25em;
@@ -57,12 +57,15 @@ padding:.85em
 div.desc h3 {
 	background-color: black
 }
-
+h3.features{
+	background-color: black;
+}
 div.footblock {
 	position: static;
 	font-weight: bold;
 	background-color: #222340;
 	padding: .5em;
+	font-size:14px
 }
 
 div.footblock-cc {
