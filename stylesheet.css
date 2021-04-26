@@ -47,6 +47,8 @@ img.logo {
 	width: 500px;
 }
 
+/* navbar */
+
 div.navbar {
 	position: relative;
 	display: flex;
@@ -64,6 +66,8 @@ div.navbar {
 div.nav {
 	padding: .2em;
 }
+
+/* navbar end */
 
 /* HEADING END */
 
@@ -93,6 +97,27 @@ h3.home-features {
 	padding-left: .2em
 }
 
+table.home-menu-table {
+	background-color: black;
+	text-align: center;
+	margin:auto;
+	padding: 2.5px
+}
+
+table.home-menu-table tr td img {
+	width: 480px
+}
+
+table.home-hud-table {
+	background-color: black;
+	text-align: center;
+	margin:auto;
+	padding: 2.5px
+}
+
+table.home-hud-table tr td img {
+	width: 480px
+}
 /* MAIN HOME END */
 
 /*------------------------------------------------------------*/
