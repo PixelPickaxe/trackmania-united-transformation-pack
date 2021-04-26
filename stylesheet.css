@@ -40,10 +40,6 @@ div.nav {
 	padding: .2em;
 }
 
-div.content {
-	font-size: larger;
-}
-
 div.footblock {
 	position: static;
 	font-weight: bold;
@@ -60,11 +56,21 @@ div.footblock-cc {
 	flex-direction: row;
 }
 
-
+div.content{
+	font-size: larger;
+	display:flex;
+	justify-content:space-evenly;
+	margin:.25em;}
+div.desc{
+	float:left;
+	margin-right: 25em;
+	text-align: left;
 a {
 	color: #ffffff;
 }
-
+a:visited{
+	color:#ffffff;
+}
 a:hover {
 	color: #00baff;
 }
