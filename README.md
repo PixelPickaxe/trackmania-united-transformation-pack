@@ -51,7 +51,7 @@ Each environment's textures (except for Snow) have been replaced or modified to 
 |![3before](https://user-images.githubusercontent.com/32438273/115127706-9352d980-9fa6-11eb-8826-e50580d00db7.jpg)|![3after](https://user-images.githubusercontent.com/32438273/115127707-95b53380-9fa6-11eb-9d2c-1beca8a9dfa2.jpg)|
 |![4before](https://user-images.githubusercontent.com/32438273/115127710-98b02400-9fa6-11eb-8b92-18343d772185.jpg)|![4after](https://user-images.githubusercontent.com/32438273/115127711-9bab1480-9fa6-11eb-9421-dbca0f6d706c.jpg)|
 - ### Updated Menu Textures
-All menu textures have been updated with the menu textures from Maniaplanet 3.
+All menu textures have been updated or replaced with the menu textures from Maniaplanet 3.
 |Before|After|
 | :------------: | :----------: |
 |![0](https://user-images.githubusercontent.com/32438273/112343113-327efc80-8c99-11eb-8f3b-022a1d03fbc2.jpg)|![1](https://user-images.githubusercontent.com/32438273/112343145-37dc4700-8c99-11eb-8ffe-17b2ee1da31d.jpg)|
