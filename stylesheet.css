@@ -55,10 +55,12 @@ padding:.85em
 
 }
 div.desc h3 {
-	background-color: black
+	background-color: black;
+	padding-left:.2em
 }
 h3.features{
 	background-color: black;
+	padding-left:.2em
 }
 div.footblock {
 	position: static;
