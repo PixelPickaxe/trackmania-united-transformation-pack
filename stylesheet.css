@@ -33,11 +33,29 @@ div.navbar {
 	background-color: #222340;
 	font-size: x-large;
 }
-hr{
-	border-color:transparent;
+
+hr {
+	border-color: transparent;
 }
+
 div.nav {
 	padding: .2em;
+}
+
+div.content {
+	font-size: larger;
+	display: flex;
+	justify-content: space-evenly;
+	margin-left: .25em;
+}
+img.about-img{
+height:250px;
+background-color: #000000;
+padding:.85em
+
+}
+div.desc h3 {
+	background-color: black
 }
 
 div.footblock {
@@ -56,21 +74,14 @@ div.footblock-cc {
 	flex-direction: row;
 }
 
-div.content{
-	font-size: larger;
-	display:flex;
-	justify-content:space-evenly;
-	margin:.25em;}
-div.desc{
-	float:left;
-	margin-right: 25em;
-	text-align: left;
 a {
 	color: #ffffff;
 }
-a:visited{
-	color:#ffffff;
+
+a:visited {
+	color: #ffffff;
 }
+
 a:hover {
 	color: #00baff;
 }
