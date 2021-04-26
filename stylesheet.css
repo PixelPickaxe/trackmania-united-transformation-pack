@@ -46,7 +46,7 @@ img.logo {
 	width: 500px;
 }
 
-/* navbar */
+/* navbar 🌎*/
 
 div.navbar {
 	position: relative;
@@ -102,6 +102,115 @@ h3.home-features {
 	padding-left: .2em;
 }
 
+div.env-comparisons {
+	justify-content: center;
+	display: flex;
+	margin: auto;
+	flex-direction: row;
+}
+
+div.home-stad-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+table.home-stad-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-stad-table tr td img {
+	width: 240px
+}
+
+div.home-des-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+	padding: .1em
+}
+
+table.home-des-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-des-table tr td img {
+	width: 240px
+}
+div.home-coas-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+table.home-coas-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-coas-table tr td img {
+	width: 240px
+}
+
+div.home-isla-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+	padding: .1em
+}
+
+table.home-isla-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-isla-table tr td img {
+	width: 240px
+}
+div.home-bay-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+table.home-bay-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-bay-table tr td img {
+	width: 240px
+}
+
+div.home-rally-table {
+	width: auto;
+	display: flex;
+	justify-content: space-evenly;
+	padding: .1em
+}
+
+table.home-rally-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
+}
+
+table.home-rally-table tr td img {
+	width: 240px
+}
 div.home-menu-table {
 	width: auto;
 	display: flex;
