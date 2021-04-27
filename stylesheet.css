@@ -107,16 +107,12 @@ h3.home-features {
 }
 
 div.env-comparisons {
-	justify-content: center;
 	display: flex;
-	margin: auto;
 	flex-direction: row;
 }
 
 div.home-stad-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -133,8 +129,6 @@ table.home-stad-table tr td img {
 
 div.home-des-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -151,8 +145,6 @@ table.home-des-table tr td img {
 
 div.home-coas-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -169,8 +161,6 @@ table.home-coas-table tr td img {
 
 div.home-isla-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -187,8 +177,6 @@ table.home-isla-table tr td img {
 
 div.home-bay-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -205,8 +193,6 @@ table.home-bay-table tr td img {
 
 div.home-rally-table {
 	width: 50%;
-	display: flex;
-	justify-content: space-evenly;
 	padding: .1em;
 }
 
@@ -222,9 +208,7 @@ table.home-rally-table tr td img {
 }
 
 div.home-menu-table {
-	width: auto;
-	display: flex;
-	justify-content: space-evenly;
+	width: 100%
 }
 
 table.home-menu-table {
@@ -239,10 +223,7 @@ table.home-menu-table tr td img {
 }
 
 div.home-hud-table {
-	width: auto;
-	display: flex;
-	justify-content: space-evenly;
-	padding: .1em;
+	width: 100%;
 }
 
 table.home-hud-table {
