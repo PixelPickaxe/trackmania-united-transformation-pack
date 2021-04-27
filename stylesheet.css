@@ -64,8 +64,8 @@ div.navbar {
 
 div.nav {
 	padding: .2em;
-	height:100%;
-	width:auto
+	height: 100%;
+	width: auto
 }
 
 /* navbar end */
@@ -76,15 +76,13 @@ div.nav {
 
 /* MAIN HOME 🏚️*/
 
-div.home-content {
-	width: auto;
+div.home-about {
 	display: flex;
-	justify-content: space-evenly;
-	margin-left: .25em;
 	font-size: large;
+	height: 100%;
 }
 
-div.home-desc h3 {
+div.home-about-desc h3 {
 	background-color: black;
 	padding-left: .2em;
 }
@@ -92,13 +90,15 @@ div.home-desc h3 {
 img.home-about-img {
 	max-width: 600px;
 	background-color: #000000;
+	display: flex;
 	padding: .85em;
 	margin-top: 5px;
-	justify-content:left
+
 }
 
 div.home-features {
 	font-size: large;
+	height: 100%;
 }
 
 h3.home-features {
