@@ -86,12 +86,13 @@ div.home-content {
 
 div.home-desc h3 {
 	background-color: black;
-	padding-left: .2em
+	padding-left: .2em;
 }
 
 img.home-about-img {
 	height: 100%;
 	width: 50%;
+	max-width: 600px;
 	background-color: #000000;
 	padding: .85em;
 	margin-top: 5px
