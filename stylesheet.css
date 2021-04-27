@@ -90,12 +90,11 @@ div.home-desc h3 {
 }
 
 img.home-about-img {
-	height: 100%;
-	width: 50%;
 	max-width: 600px;
 	background-color: #000000;
 	padding: .85em;
-	margin-top: 5px
+	margin-top: 5px;
+	justify-content:left
 }
 
 div.home-features {
