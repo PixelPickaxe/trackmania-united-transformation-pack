@@ -312,7 +312,7 @@ div.kofi {
 div.footblock {
 	border-right: solid black .25em;
 	border-left: solid black .25em;
-	border-top: solid black .25em;
+	border-top: dashed black .25em;
 	position: static;
 	font-weight: bold;
 	background-color: #222340;
