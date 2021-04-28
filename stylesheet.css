@@ -262,6 +262,11 @@ div.contact-desc {
 	width: fit-content;
 }
 
+div.contact-desc p{
+	margin: 1em;
+	width:auto;
+	justify-content:space-evenly
+}
 /* MAIN CONTACT END*/
 
 /*------------------------------------------------------------*/
