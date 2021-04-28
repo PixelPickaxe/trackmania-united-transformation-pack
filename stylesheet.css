@@ -262,24 +262,22 @@ div.contact-buttons {
 }
 
 div.contact-warn {
-margin:auto;
+	margin: auto;
 	width: fit-content;
 	background-color: red;
-
 }
 
 div.contact-warn p {
-
 	justify-content: space-around;
 	margin: 1em;
 	display: flex;
 	font-weight: bold;
-	padding:.2em;
-	font-size:10pt
+	padding: .2em;
+	font-size: 10pt
 }
 
 div.contact-desc {
-	margin:auto;
+	margin: auto;
 	width: fit-content;
 	background-color: black;
 	border: .2em black dashed;
