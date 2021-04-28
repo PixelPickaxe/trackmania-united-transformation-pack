@@ -259,7 +259,6 @@ div.contact-buttons {
 	display: flex;
 	margin: auto;
 	justify-content: space-evenly;
-
 }
 
 div.contact-desc {
@@ -268,10 +267,11 @@ div.contact-desc {
 	background-color: #222340;
 	border: 2px black dashed;
 }
-div.contact-desc p{
+
+div.contact-desc p {
 	justify-content: space-around;
-	margin:1em;	
-	display:flex;
+	margin: 1em;
+	display: flex;
 }
 
 /* MAIN CONTACT END*/
@@ -310,8 +310,8 @@ div.kofi {
 /* FOOTER 🌎*/
 
 div.footblock {
-	border-right: solid black 3px;
-	border-left: solid black 3px;
+	border-right: solid black .25em;
+	border-left: solid black .25em;
 	border-top: solid black .25em;
 	position: static;
 	font-weight: bold;
@@ -321,9 +321,9 @@ div.footblock {
 }
 
 div.footblock-cc {
-	border-right: solid black 3px;
-	border-left: solid black 3px;
-	border-bottom: solid black 3px;
+	border-right: solid black .25em;
+	border-left: solid black .25em;
+	border-bottom: solid black .25em;
 	padding: .5em;
 	display: flex;
 	justify-content: space-between;
