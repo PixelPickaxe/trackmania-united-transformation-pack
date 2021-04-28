@@ -310,6 +310,9 @@ div.kofi {
 /* FOOTER 🌎*/
 
 div.footblock {
+	border-right: solid black 3px;
+	border-left: solid black 3px;
+	border-top: solid black .25em;
 	position: static;
 	font-weight: bold;
 	background-color: #222340;
@@ -318,6 +321,9 @@ div.footblock {
 }
 
 div.footblock-cc {
+	border-right: solid black 3px;
+	border-left: solid black 3px;
+	border-bottom: solid black 3px;
 	padding: .5em;
 	display: flex;
 	justify-content: space-between;
