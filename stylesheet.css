@@ -247,26 +247,22 @@ table.home-hud-table tr td img {
 /* MAIN CONTACT☎️*/
 
 div.contact-contact {
+	
 	margin: auto;
-	width: fit-content;
-	padding-left: 3em;
-	padding-right: 3em;
+	width: 95%;
 	background-color: #222340;
 	border: 2px black dashed
 }
 
 div.contact-desc {
-
 	flex-direction: row;
 	display: flex;
-	width: fit-content;
+	margin: auto;
+	justify-content: space-evenly;
+
 }
 
-div.contact-desc p{
-	margin: 1em;
-	width:auto;
-	justify-content:space-evenly
-}
+
 /* MAIN CONTACT END*/
 
 /*------------------------------------------------------------*/
