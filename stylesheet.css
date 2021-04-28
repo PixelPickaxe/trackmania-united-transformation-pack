@@ -46,6 +46,10 @@ img.logo {
 	width: 500px;
 }
 
+img.icon {
+	max-width: 24px;
+}
+
 /* navbar 🌎*/
 
 div.navbar {
@@ -93,7 +97,6 @@ img.home-about-img {
 	display: flex;
 	padding: .85em;
 	margin-top: 5px;
-
 }
 
 div.home-features {
@@ -242,6 +245,22 @@ table.home-hud-table tr td img {
 /*------------------------------------------------------------*/
 
 /* MAIN CONTACT☎️*/
+
+div.contact-contact {
+	margin: auto;
+	width: fit-content;
+	padding-left: 3em;
+	padding-right: 3em;
+	background-color: #222340;
+	border: 2px black dashed
+}
+
+div.contact-desc {
+
+	flex-direction: row;
+	display: flex;
+	width: fit-content;
+}
 
 /* MAIN CONTACT END*/
 
