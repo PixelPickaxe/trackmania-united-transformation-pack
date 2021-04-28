@@ -247,14 +247,14 @@ table.home-hud-table tr td img {
 /* MAIN CONTACT☎️*/
 
 div.contact-contact {
-	
+	font-size: larger;
 	margin: auto;
 	width: 95%;
 	background-color: #222340;
 	border: 2px black dashed
 }
 
-div.contact-desc {
+div.contact-buttons {
 	flex-direction: row;
 	display: flex;
 	margin: auto;
@@ -262,7 +262,17 @@ div.contact-desc {
 
 }
 
-
+div.contact-desc {
+	margin: auto;
+	width: fit-content;
+	background-color: #222340;
+	border: 2px black dashed;
+}
+div.contact-desc p{
+	justify-content: space-around;
+	margin:1em;	
+	display:flex;
+}
 /* MAIN CONTACT END*/
 
 /*------------------------------------------------------------*/
