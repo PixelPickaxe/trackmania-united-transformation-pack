@@ -55,7 +55,7 @@ img.icon {
 div.navbar {
 	position: relative;
 	display: flex;
-	padding: 0.2em;
+	padding: .2em;
 	justify-content: center space-evenly;
 	border-left: solid;
 	border-right: solid;
@@ -251,7 +251,7 @@ div.contact-contact {
 	margin: auto;
 	width: 95%;
 	background-color: #222340;
-	border: 2px black dashed
+	border: .2em black solid
 }
 
 div.contact-buttons {
@@ -264,8 +264,8 @@ div.contact-buttons {
 div.contact-desc {
 	margin: auto;
 	width: fit-content;
-	background-color: #222340;
-	border: 2px black dashed;
+	background-color: black;
+	border: .2em black dashed;
 }
 
 div.contact-desc p {
@@ -310,9 +310,9 @@ div.kofi {
 /* FOOTER 🌎*/
 
 div.footblock {
-	border-right: solid black .25em;
-	border-left: solid black .25em;
-	border-top: dashed black .25em;
+	border-right: solid black .2em;
+	border-left: solid black .2em;
+	border-top: dashed black .2em;
 	position: static;
 	font-weight: bold;
 	background-color: #222340;
@@ -321,9 +321,9 @@ div.footblock {
 }
 
 div.footblock-cc {
-	border-right: solid black .25em;
-	border-left: solid black .25em;
-	border-bottom: solid black .25em;
+	border-right: solid black .2em;
+	border-left: solid black .2em;
+	border-bottom: solid black .2em;
 	padding: .5em;
 	display: flex;
 	justify-content: space-between;
