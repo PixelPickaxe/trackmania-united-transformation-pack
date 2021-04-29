@@ -30,7 +30,19 @@ body {
 hr {
 	border-color: transparent;
 }
+div.under-construction{
+	margin: auto;
+	width: fit-content;
+	background-color: yellow;
+	color:black;
+}
 
+div.under-construction p {
+	display: flex;
+	font-weight: bold;
+	padding: .2em;
+	font-size: 20pt
+}
 /* SETTINGS END */
 
 /*------------------------------------------------------------*/
