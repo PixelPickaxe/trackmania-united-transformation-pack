@@ -68,7 +68,7 @@ div.navbar {
 	position: relative;
 	display: flex;
 	padding: .2em;
-	justify-content: center space-evenly;
+	justify-content: center;
 	border-left: solid;
 	border-right: solid;
 	border-bottom: dashed;
