@@ -93,7 +93,7 @@ div.home-about-desc h3 {
 
 img.home-about-img {
 	max-width: 600px;
-	min-width:0%;
+	min-width: 0%;
 	background-color: #000000;
 	padding: .85em;
 	margin-top: 5px;
@@ -107,7 +107,7 @@ div.home-features {
 h3.home-features {
 	background-color: black;
 	padding-left: .2em;
-}	
+}
 
 div.env-comparisons {
 	display: flex;
