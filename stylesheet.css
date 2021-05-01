@@ -95,13 +95,13 @@ div.home-about-desc h3 {
 	padding-left: .2em;
 }
 
-img.home-about-img {
-	max-width: 300px;
+/* img.home-about-img {
+	max-width: 600px;
 	background-color: #000000;
 	padding: .85em;
 	margin-top: 5px;
 	display:flex;
-}
+}*/
 
 h3.home-features {
 	background-color: black;
