@@ -302,7 +302,10 @@ div.contact-desc p {
 /* MAIN HELP ❓*/
 
 div.legal-blocks {
-
+	flex-direction: row;
+	display: flex;
+	margin: auto;
+	justify-content: space-evenly;
 }
 
 /* MAIN HELP END */
