@@ -301,17 +301,17 @@ div.contact-desc p {
 
 /* MAIN HELP ❓*/
 
-div.legal-blocks {
-	flex-direction: row;
-	display: flex;
-	justify-content: space-around;
-}
-
 /* MAIN HELP END */
 
 /*------------------------------------------------------------*/
 
 /*MAIN LEGAL⚖️*/
+
+div.legal-blocks {
+	flex-direction: row;
+	display: flex;
+	justify-content: space-around;
+}
 
 /* MAIN LEGAL END*/
 
