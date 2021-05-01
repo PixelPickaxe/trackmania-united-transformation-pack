@@ -49,7 +49,8 @@ header {
 }
 
 img.logo {
-	width: 500px;
+	max-width: 500px;
+	size: relative;
 }
 
 img.icon {
@@ -61,8 +62,7 @@ img.icon {
 div.navbar {
 	position: relative;
 	display: flex;
-	padding: .2em;
-	justify-content: center;
+	padding: .175em;
 	border-left: solid;
 	border-right: solid;
 	border-bottom: dashed;
@@ -73,7 +73,7 @@ div.navbar {
 }
 
 div.nav {
-	padding: .2em;
+	padding: .175em;
 	height: 100%;
 	width: auto
 }
@@ -88,8 +88,6 @@ div.nav {
 
 div.home-about {
 	display: flex;
-
-	height: 100%;
 }
 
 div.home-about-desc h3 {
@@ -98,16 +96,11 @@ div.home-about-desc h3 {
 }
 
 img.home-about-img {
-	max-width: 600px;
-	min-width: 0%;
+	max-width: 300px;
 	background-color: #000000;
 	padding: .85em;
 	margin-top: 5px;
-}
-
-div.home-features {
-
-	height: 100%;
+	display:flex;
 }
 
 h3.home-features {
@@ -349,16 +342,17 @@ div.kofi {
 /* FOOTER 🌎*/
 
 div.footblock-cc {
+	height:100%;
 	position: relative;
+	display: flex;
 	border-top: dashed black .2em;
 	border-right: solid black .2em;
 	border-left: solid black .2em;
 	border-bottom: solid black .2em;
 	padding: .5em;
-	display: flex;
 	justify-content: space-between;
 	background-color: #222340;
-	font-size: medium;
+
 	flex-direction: row;
 }
 
