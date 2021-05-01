@@ -268,7 +268,7 @@ div.contact-warn {
 }
 
 div.contact-warn p {
-	justify-content: space-around;
+	justify-content: space-aroundd;
 	margin: 1em;
 	display: flex;
 	font-weight: bold;
@@ -304,8 +304,7 @@ div.contact-desc p {
 div.legal-blocks {
 	flex-direction: row;
 	display: flex;
-	margin: auto;
-	justify-content: space-evenly;
+	justify-content: space-around;
 }
 
 /* MAIN HELP END */
