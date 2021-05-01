@@ -312,7 +312,7 @@ div.contact-desc p {
 /*MAIN LEGAL⚖️*/
 
 div.legal-blocks {
-	display: flex
+justify-content: space-between;
 }
 
 div.legal-block-fair-use {
