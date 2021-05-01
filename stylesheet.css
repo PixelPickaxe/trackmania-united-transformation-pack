@@ -310,7 +310,20 @@ div.contact-desc p {
 div.legal-blocks {
 	flex-direction: row;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
+}
+
+div.legal-block-fair-use {
+	border: solid black .2em;
+	background: #222340;
+	padding: 1em;
+	margin: 1.5em
+}
+
+div.legal-block-attribution {
+	border: solid black .2em;
+	background: #222340;
+	padding: 1em;	margin: 1.5em
 }
 
 /* MAIN LEGAL END*/
