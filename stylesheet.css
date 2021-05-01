@@ -9,6 +9,10 @@
 
 /*SETTINGS 🌎*/
 
+main{
+	margin-left: 4em;
+	margin-right:4em
+}
 a {
 	color: #ffffff;
 }
@@ -308,22 +312,21 @@ div.contact-desc p {
 /*MAIN LEGAL⚖️*/
 
 div.legal-blocks {
-	flex-direction: row;
-	display: flex;
-	justify-content: space-evenly;
+	display: flex
 }
 
 div.legal-block-fair-use {
 	border: solid black .2em;
 	background: #222340;
 	padding: 1em;
-	margin: 1.5em
+	margin: 1em
 }
 
 div.legal-block-attribution {
 	border: solid black .2em;
 	background: #222340;
-	padding: 1em;	margin: 1.5em
+	padding: 1em;
+	margin: 1em
 }
 
 /* MAIN LEGAL END*/
@@ -349,7 +352,6 @@ div.footblock-cc {
 	border-right: solid black .2em;
 	border-left: solid black .2em;
 	border-bottom: solid black .2em;
-	margin-top: 2em;
 	padding: .5em;
 	display: flex;
 	justify-content: space-between;
