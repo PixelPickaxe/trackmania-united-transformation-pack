@@ -9,10 +9,12 @@
 
 /*SETTINGS 🌎*/
 
-main{
+main {
 	margin-left: 4em;
-	margin-right:4em
+	margin-right: 4em;
+	font-size:larger
 }
+
 a {
 	color: #ffffff;
 }
@@ -27,7 +29,7 @@ a:hover {
 
 body {
 	background: #161616;
-	font-family: 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	color: #ffffff;
 }
 
@@ -86,7 +88,7 @@ div.nav {
 
 div.home-about {
 	display: flex;
-	font-size: large;
+
 	height: 100%;
 }
 
@@ -104,7 +106,7 @@ img.home-about-img {
 }
 
 div.home-features {
-	font-size: large;
+
 	height: 100%;
 }
 
@@ -312,7 +314,7 @@ div.contact-desc p {
 /*MAIN LEGAL⚖️*/
 
 div.legal-blocks {
-justify-content: space-between;
+	justify-content: space-between;
 }
 
 div.legal-block-fair-use {
