@@ -303,14 +303,22 @@ div.contact-desc p {
 div.help-requirements {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: space-evenly
 }
 
-div#min, div#max {
+div#min{
+	font-size:smaller;
 	background: black;
-	padding: 1.5em
+	padding: 1.75em;
+	margin-top:1em;
+	border: dashed grey
 }
-
+div#max{
+	background: black;
+	padding: 1em;
+	margin-top:1em;
+	border: dashed limegreen
+}
 div.help-blocks h3 {
 	background-color: black;
 	padding-left: .2em;
