@@ -321,7 +321,7 @@ div#max {
 	border: dashed limegreen
 }
 
-div.help-blocks h3 {
+div.help-blocks h2 {
 	background-color: black;
 	padding-left: .2em;
 }
@@ -336,7 +336,7 @@ p#step {
 	margin-left: 2em;
 }
 img#step-img{
-	width:100%
+	margin-left:50%
 }
 
 /* MAIN HELP END */
