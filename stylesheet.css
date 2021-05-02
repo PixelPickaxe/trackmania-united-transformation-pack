@@ -325,7 +325,11 @@ div.help-blocks h3{
 }
 div.help-blocks h4{
 	margin-left: 1em;
-	background:black
+	background:black;
+	padding:.2em
+}
+p#step{
+	margin-left:2em;
 }
 
 /* MAIN HELP END */
