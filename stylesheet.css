@@ -335,6 +335,9 @@ div.help-blocks h4 {
 p#step {
 	margin-left: 2em;
 }
+img#step-img{
+	width:100%
+}
 
 /* MAIN HELP END */
 
