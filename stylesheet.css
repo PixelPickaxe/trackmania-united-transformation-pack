@@ -306,30 +306,34 @@ div.help-requirements {
 	justify-content: space-evenly
 }
 
-div#min{
-	font-size:smaller;
+div#min {
+	font-size: smaller;
 	background: black;
 	padding: 1.75em;
-	margin-top:1em;
+	margin-top: 1em;
 	border: dashed grey
 }
-div#max{
+
+div#max {
 	background: black;
 	padding: 1em;
-	margin-top:1em;
+	margin-top: 1em;
 	border: dashed limegreen
 }
-div.help-blocks h3{
+
+div.help-blocks h3 {
 	background-color: black;
 	padding-left: .2em;
 }
-div.help-blocks h4{
+
+div.help-blocks h4 {
 	margin-left: 1em;
-	background:black;
-	padding:.2em
+	background: black;
+	padding: .2em
 }
-p#step{
-	margin-left:2em;
+
+p#step {
+	margin-left: 2em;
 }
 
 /* MAIN HELP END */
