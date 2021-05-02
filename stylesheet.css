@@ -319,9 +319,13 @@ div#max{
 	margin-top:1em;
 	border: dashed limegreen
 }
-div.help-blocks h3 {
+div.help-blocks h3{
 	background-color: black;
 	padding-left: .2em;
+}
+div.help-blocks h4{
+	margin-left: 1em;
+	background:black
 }
 
 /* MAIN HELP END */
