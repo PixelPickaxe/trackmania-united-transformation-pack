@@ -296,14 +296,14 @@ div.contact-desc p {
 img#dl-img {
 	width: 64px;
 	height: 64px;
-margin:auto;
-padding-left:.5em
+	margin: auto;
+	padding-left: .5em
 }
 
 h2#download-h2 {
 	text-align: center;
 	background: black;
-	padding:.2em;
+	padding: .2em;
 }
 
 div.download-main {
@@ -319,6 +319,7 @@ div.download-block {
 	border: black solid;
 	background: #181D3A;
 }
+
 div.download-block-mod {
 	margin-left: auto;
 	margin-right: auto;
@@ -335,15 +336,15 @@ div.download-column {
 	margin-left: auto;
 	padding-left: 10%;
 	margin-right: auto;
-	width:80%;
-
+	width: 80%;
 }
-div.dl-desc{
-    margin-left: 2em;
-    margin-right: 2em;
-	width:fit-content;
 
+div.dl-desc {
+	margin-left: 2em;
+	margin-right: 2em;
+	width: fit-content;
 }
+
 div.button-dl-mod {
 	background: #1391B6;
 	border: solid black 2px;
@@ -364,12 +365,10 @@ a#dl-a-mod {
 	text-decoration: none;
 	background: #036D14;
 	width: 200px;
-
 }
 
 a#dl-a-mod:hover {
 	color: white;
-
 }
 
 div.button-dl {
@@ -392,26 +391,25 @@ a#dl-a {
 	text-decoration: none;
 	background: #036D14;
 	width: 200px;
-
 }
 
 a#dl-a:hover {
 	color: white;
-
 }
 
 p#dl-p {
 	margin: auto;
 	text-align: center;
 }
-@media(max-width: 801px){
-div.download-column {
-			align-items: center;
-			flex-direction: column;
-			display: flex;
-			padding-bottom: .5em
-		}
+
+@media(max-width: 801px) {
+	div.download-column {
+		align-items: center;
+		flex-direction: column;
+		display: flex;
+		padding-bottom: .5em
 	}
+}
 
 /* MAIN DOWNLOAD END*/
 
