@@ -300,19 +300,28 @@ img#dl-img {
 	padding-top: 1.5em;
 }
 
+h2#download-h2 {
+	text-align: center;
+}
+
 div.download-blocks {
 	justify-content: space-evenly;
-	display: flex
+	display: flex;
 }
 
 div.download-main {
 	flex-direction: row;
 	display: flex;
 	height: fit-content;
-	background: purple;
+	border: black solid;
+	background: #181D3A;
 	width: fit-content;
+	padding-left: 2em;
+	padding-right: 2em;
 }
-
+div.download-column{
+	margin-left: 2em;
+}
 div.button-dl {
 	background: #036D14;
 	border: solid black 2px;
@@ -332,8 +341,8 @@ a#dl-a {
 	color: black;
 	text-decoration: none;
 	background: #036D14;
-margin-top: 1.5em;
-margin-left:2em;
+	margin-top: 1.5em;
+	margin-left: 2em;
 	height: fit-content;
 }
 
@@ -343,8 +352,8 @@ a#dl-a:hover {
 }
 
 p#dl-p {
-	width: fit-content;
-	margin: auto
+	margin: auto;
+	text-align: center;
 }
 
 /* MAIN DOWNLOAD END*/
