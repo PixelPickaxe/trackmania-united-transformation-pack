@@ -308,8 +308,8 @@ div.download-main {
 	flex-direction: row;
 	display: flex;
 	padding: 1em;
-	margin-left: 25% 
-	margin-right: 25%
+
+
 }
 
 div.download-block {
@@ -323,12 +323,18 @@ div.download-block {
 
 div.download-column {
 	align-items: center;
-
 	flex-direction: row;
 	display: flex;
 	margin-left: auto;
+	padding-left: 10%;
 	margin-right: auto;
 	width:80%;
+
+}
+div.dl-desc{
+    margin-left: 2em;
+    margin-right: 2em;
+	width:fit-content;
 
 }
 
@@ -353,9 +359,6 @@ a#dl-a {
 	background: #036D14;
 	width: 200px;
 
-	margin-left: 10%
-
-
 }
 
 a#dl-a:hover {
@@ -367,16 +370,14 @@ p#dl-p {
 	margin: auto;
 	text-align: center;
 }
-@media(max-width: 800px){
+@media(max-width: 801px){
 div.download-column {
 			align-items: center;
 			flex-direction: column;
 			display: flex;
-			margin-left: auto;
-			margin-right: auto;
 		}
 	}
-}
+
 /* MAIN DOWNLOAD END*/
 
 /*------------------------------------------------------------*/
