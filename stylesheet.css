@@ -296,6 +296,8 @@ div.contact-desc p {
 img#dl-img {
 	width: 64px;
 	height: 64px;
+margin:auto;
+padding-left:.5em
 }
 
 h2#download-h2 {
@@ -307,9 +309,6 @@ h2#download-h2 {
 div.download-main {
 	flex-direction: row;
 	display: flex;
-	padding: 1em;
-
-
 }
 
 div.download-block {
@@ -375,6 +374,7 @@ div.download-column {
 			align-items: center;
 			flex-direction: column;
 			display: flex;
+			padding-bottom: .5em
 		}
 	}
 
