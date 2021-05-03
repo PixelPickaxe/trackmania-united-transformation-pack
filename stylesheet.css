@@ -68,7 +68,7 @@ div.navbar {
 	border-bottom: dashed;
 	border-color: black;
 	flex-direction: row;
-	background-color: #222340;
+	background-color: #181D3A;
 	font-size: x-large;
 }
 
@@ -249,7 +249,7 @@ div.contact-contact {
 	font-size: larger;
 	margin: auto;
 	width: 95%;
-	background-color: #222340;
+	background-color: #181D3A;
 	border: .2em black solid
 }
 
@@ -294,6 +294,45 @@ div.contact-desc p {
 
 /* MAIN DOWNLOAD ⬇️*/
 
+
+img#dl-img {
+	width: 25%
+}
+
+div.download-main {
+	flex-direction: row;
+	display: flex;
+}
+div.download-blocks{
+	width:fit-content;
+	height:fit-content
+}
+div.button-dl {
+	background: #036D14;
+	border: solid black 2px;
+	padding-left:.2em;
+	padding-right:.2em
+}
+
+div.button-dl:hover {
+	border: white solid 2px;
+	background: black;
+}
+
+a#dl {
+	font-weight: bolder;
+	color: black;
+	text-decoration: none;
+	background: #036D14;
+	width:fit-content;
+	height:fit-content;
+}
+
+a#dl:hover {
+	color: white;
+	background: black;
+}
+
 /* MAIN DOWNLOAD END*/
 
 /*------------------------------------------------------------*/
@@ -318,7 +357,7 @@ div#max {
 	background: black;
 	padding: 1em;
 	margin-top: 1em;
-	border: dashed limegreen
+	border: dashed #036D14
 }
 
 div.help-blocks h2 {
@@ -335,8 +374,9 @@ div.help-blocks h3 {
 p#step {
 	margin-left: 2em;
 }
-img#step-img{
-	margin-left:50%
+
+img#step-img {
+	margin-left: 50%
 }
 
 /* MAIN HELP END */
@@ -351,14 +391,14 @@ div.legal-blocks {
 
 div.legal-block-fair-use {
 	border: solid black .2em;
-	background: #222340;
+	background: #181D3A;
 	padding: 1em;
 	margin: 1em
 }
 
 div.legal-block-attribution {
 	border: solid black .2em;
-	background: #222340;
+	background: #181D3A;
 	padding: 1em;
 	margin: 1em
 }
@@ -390,7 +430,7 @@ div.footblock-cc {
 	border-bottom: solid black .2em;
 	padding: .5em;
 	justify-content: space-between;
-	background-color: #222340;
+	background-color: #181D3A;
 	flex-direction: row;
 }
 
