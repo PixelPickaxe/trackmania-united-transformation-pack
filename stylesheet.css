@@ -319,6 +319,14 @@ div.download-block {
 	border: black solid;
 	background: #181D3A;
 }
+div.download-block-mod {
+	margin-left: auto;
+	margin-right: auto;
+	flex-direction: column;
+	display: flex;
+	border: black solid;
+	background: #1391B6
+}
 
 div.download-column {
 	align-items: center;
