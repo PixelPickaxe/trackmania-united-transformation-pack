@@ -302,7 +302,7 @@ padding: 1%;
 }
 div.download-blocks{
 	width:fit-content;
-margin:5%
+
 }
 div.download-main {
 	flex-direction: row;
@@ -315,7 +315,8 @@ div.button-dl {
 	border: solid black 2px;
 	padding-left:.2em;
 	padding-right:.2em;
-	margin-top:15%
+	margin-top:15%;
+
 }
 
 div.button-dl:hover {
@@ -331,6 +332,7 @@ a#dl-a {
 	background: #036D14;
 	width:fit-content;
 	height:fit-content;
+
 }
 
 a#dl-a:hover {
