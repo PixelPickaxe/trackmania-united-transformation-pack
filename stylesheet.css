@@ -300,6 +300,9 @@ img#dl-img {
 
 h2#download-h2 {
 	text-align: center;
+	background: black;
+	padding:.2em;
+
 }
 
 div.download-main {
@@ -323,7 +326,6 @@ div.download-column {
 	align-items: center;
 	flex-direction: row;
 	display: flex;
-	justify-content: space-evenly;
 	margin-left: auto;
 	margin-right: auto;
 }
