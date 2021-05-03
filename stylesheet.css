@@ -262,16 +262,14 @@ div.contact-buttons {
 
 div.contact-warn {
 	margin: auto;
-margin-top: 1em;
-margin-bottom: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	width: fit-content;
 	background-color: red;
-	display: flex;
+	text-align: center;
 	font-weight: bold;
 	padding: .2em;
 	font-size: 12pt;
-	justify-content: space-around;
-
 }
 
 div.contact-desc {
@@ -304,8 +302,7 @@ h2#download-h2 {
 }
 
 div.download-block {
-text-align: center;
-
+	text-align: center;
 }
 
 div.download-main {
@@ -318,9 +315,11 @@ div.download-main {
 	padding-left: 2em;
 	padding-right: 2em;
 }
-div.download-column{
+
+div.download-column {
 	margin-left: 2em;
 }
+
 div.button-dl {
 	background: #036D14;
 	border: solid black 2px;
