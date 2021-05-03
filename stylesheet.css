@@ -296,30 +296,35 @@ div.contact-desc p {
 
 
 img#dl-img {
-	width: 25%
-}
-
-div.download-main {
-	flex-direction: row;
-	display: flex;
+	width: 250px;
+	height:100%;
+padding: 1%;
 }
 div.download-blocks{
 	width:fit-content;
-	height:fit-content
+margin:5%
 }
+div.download-main {
+	flex-direction: row;
+	display: flex;
+
+}
+
 div.button-dl {
 	background: #036D14;
 	border: solid black 2px;
 	padding-left:.2em;
-	padding-right:.2em
+	padding-right:.2em;
+	margin-top:15%
 }
 
 div.button-dl:hover {
 	border: white solid 2px;
 	background: black;
+
 }
 
-a#dl {
+a#dl-a {
 	font-weight: bolder;
 	color: black;
 	text-decoration: none;
@@ -328,7 +333,7 @@ a#dl {
 	height:fit-content;
 }
 
-a#dl:hover {
+a#dl-a:hover {
 	color: white;
 	background: black;
 }
