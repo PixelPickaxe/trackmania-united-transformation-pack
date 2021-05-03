@@ -301,7 +301,6 @@ img#dl-img {
 padding: 1%;
 }
 div.download-blocks{
-	width:fit-content;
 
 }
 div.download-main {
@@ -315,8 +314,6 @@ div.button-dl {
 	border: solid black 2px;
 	padding-left:.2em;
 	padding-right:.2em;
-
-
 }
 
 div.button-dl:hover {
