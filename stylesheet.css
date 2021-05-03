@@ -315,13 +315,13 @@ div.button-dl {
 	border: solid black 2px;
 	padding-left:.2em;
 	padding-right:.2em;
-	margin-top:15%;
+
 
 }
 
 div.button-dl:hover {
 	border: white solid 2px;
-	background: black;
+	background: #00AF47;
 
 }
 
@@ -337,7 +337,7 @@ a#dl-a {
 
 a#dl-a:hover {
 	color: white;
-	background: black;
+	background: #00AF47;
 }
 
 /* MAIN DOWNLOAD END*/
