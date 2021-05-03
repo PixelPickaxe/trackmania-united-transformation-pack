@@ -416,14 +416,15 @@ div.legal-block-fair-use {
 	border: solid black .2em;
 	background: #181D3A;
 	padding: 1em;
-	margin: 1em
+	margin-top: .5em
 }
 
 div.legal-block-attribution {
 	border: solid black .2em;
 	background: #181D3A;
 	padding: 1em;
-	margin: 1em
+	margin-top: .5em;
+	margin-bottom: .5em
 }
 
 /* MAIN LEGAL END*/
