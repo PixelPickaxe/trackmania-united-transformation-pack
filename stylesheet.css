@@ -344,6 +344,33 @@ div.dl-desc{
 	width:fit-content;
 
 }
+div.button-dl-mod {
+	background: #1391B6;
+	border: solid black 2px;
+	padding-left: .2em;
+	padding-right: .2em;
+	padding-top: .45em;
+	height: 2em;
+}
+
+div.button-dl-mod:hover {
+	border: white solid 2px;
+	background: #00baff;
+}
+
+a#dl-a-mod {
+	font-weight: bolder;
+	color: black;
+	text-decoration: none;
+	background: #036D14;
+	width: 200px;
+
+}
+
+a#dl-a-mod:hover {
+	color: white;
+
+}
 
 div.button-dl {
 	background: #036D14;
@@ -370,7 +397,7 @@ a#dl-a {
 
 a#dl-a:hover {
 	color: white;
-	background: #00AF47;
+
 }
 
 p#dl-p {
