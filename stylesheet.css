@@ -294,9 +294,10 @@ div.contact-desc p {
 /* MAIN DOWNLOAD ⬇️*/
 
 img#dl-img {
-	width: 250px;
-	height: 100%;
-	padding-top: 1.5em;
+	width: 64px;
+	height: 64px;
+	margin:auto;
+
 }
 
 h2#download-h2 {
@@ -304,12 +305,13 @@ h2#download-h2 {
 }
 
 div.download-block {
-	text-align: center;
+	text-align: left;
+	margin-left: auto;
+    margin-right: auto;
+    width: fit-content
 }
 
 div.download-main {
-	flex-direction: row;
-	display: flex;
 	height: fit-content;
 	border: black solid;
 	background: #181D3A;
@@ -320,6 +322,8 @@ div.download-main {
 
 div.download-column {
 	margin-left: 2em;
+
+	display:Flex
 }
 
 div.button-dl {
@@ -329,6 +333,7 @@ div.button-dl {
 	padding-right: .2em;
 	padding-top: .4em;
 	height: 2em;
+	
 }
 
 div.button-dl:hover {
@@ -341,7 +346,8 @@ a#dl-a {
 	color: black;
 	text-decoration: none;
 	background: #036D14;
-	margin-top: 1.5em;
+	margin-top: auto;
+	margin-bottom: auto;
 	margin-left: 2em;
 	height: fit-content;
 }
