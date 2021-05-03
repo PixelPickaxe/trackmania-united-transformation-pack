@@ -276,13 +276,15 @@ div.contact-desc {
 	margin: auto;
 	width: fit-content;
 	background-color: black;
-	border: .2em black dashed;
+	border: .2em black solid;
 }
 
 div.contact-desc p {
 	justify-content: space-around;
 	margin: 1em;
 	display: flex;
+	text-align: center;
+	font-weight: lighter;
 }
 
 /* MAIN CONTACT END*/
