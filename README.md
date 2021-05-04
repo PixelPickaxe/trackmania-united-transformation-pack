@@ -1,3 +1,5 @@
+[![url](http://internetometer.com/image/48075.png)](http://internetometer.com/give/48075)
+
 # TrackMania United Transformation Pack
 ⚠️CURRENTLY THERE IS NO RELEASE AVAILABLE. I'M STILL WORKING ON IT, BUT CHECK BACK REGULARLY FOR UPDATES. ONCE IT'S RELEASED, I'LL MAKE SOME NOISE ONLINE⚠️
 ## About
@@ -5,7 +7,6 @@
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J12HL94)
-[![url](http://internetometer.com/image/48075.png)](http://internetometer.com/give/48075)
 # Features
 - ### Updated Environment Textures
 Each environment's textures (except for Snow) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo envisioned originally.
