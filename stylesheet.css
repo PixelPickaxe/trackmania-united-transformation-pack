@@ -61,7 +61,7 @@ img.icon {
 
 div.navbar {
 	position: relative;
-	height:fit-content;
+	height: fit-content;
 	display: flex;
 	padding: .175em;
 	border-left: solid;
@@ -251,14 +251,14 @@ div.contact-contact {
 	margin: auto;
 	width: 95%;
 	background-color: #181D3A;
-	border: .2em black solid
+	border: .2em black solid;
 }
 
 div.contact-buttons {
-	flex-direction: row;
+	text-align: center;
 	display: flex;
 	margin: auto;
-	justify-content: space-evenly;
+	justify-content: space-around;
 }
 
 div.contact-warn {
