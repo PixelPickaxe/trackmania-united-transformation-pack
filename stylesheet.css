@@ -61,6 +61,7 @@ img.icon {
 
 div.navbar {
 	position: relative;
+	height:fit-content;
 	display: flex;
 	padding: .175em;
 	border-left: solid;
