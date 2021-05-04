@@ -458,7 +458,7 @@ p#dl-p {
 	}
 }
 
-@media(orientation : portrait){
+@media(orientation : portrait) {
 	div.download-column {
 		align-items: center;
 		flex-direction: column;
