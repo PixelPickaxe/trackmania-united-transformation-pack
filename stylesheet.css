@@ -292,6 +292,52 @@ div.contact-desc p {
 
 /*------------------------------------------------------------*/
 
+/* MAIN HELP ❓*/
+
+div.help-requirements {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly
+}
+
+div#min {
+	font-size: smaller;
+	background: black;
+	padding: 1.75em;
+	margin-top: 1em;
+	border: dashed grey
+}
+
+div#max {
+	background: black;
+	padding: 1em;
+	margin-top: 1em;
+	border: dashed #036D14
+}
+
+div.help-blocks h2 {
+	background-color: black;
+	padding-left: .2em;
+}
+
+div.help-blocks h3 {
+	margin-left: 1em;
+	background: black;
+	padding: .2em
+}
+
+p#step {
+	margin-left: 2em;
+}
+
+img#step-img {
+	margin-left: 50%
+}
+
+/* MAIN HELP END */
+
+/*------------------------------------------------------------*/
+
 /* MAIN DOWNLOAD ⬇️*/
 
 img#dl-img {
@@ -420,53 +466,8 @@ p#dl-p {
 		padding-bottom: .5em
 	}
 }
+
 /* MAIN DOWNLOAD END*/
-
-/*------------------------------------------------------------*/
-
-/* MAIN HELP ❓*/
-
-div.help-requirements {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-evenly
-}
-
-div#min {
-	font-size: smaller;
-	background: black;
-	padding: 1.75em;
-	margin-top: 1em;
-	border: dashed grey
-}
-
-div#max {
-	background: black;
-	padding: 1em;
-	margin-top: 1em;
-	border: dashed #036D14
-}
-
-div.help-blocks h2 {
-	background-color: black;
-	padding-left: .2em;
-}
-
-div.help-blocks h3 {
-	margin-left: 1em;
-	background: black;
-	padding: .2em
-}
-
-p#step {
-	margin-left: 2em;
-}
-
-img#step-img {
-	margin-left: 50%
-}
-
-/* MAIN HELP END */
 
 /*------------------------------------------------------------*/
 
