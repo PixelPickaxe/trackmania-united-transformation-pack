@@ -5,6 +5,7 @@
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J12HL94)
+[![ko-fi](http://internetometer.com/image/48075.png)](http://internetometer.com/give/48075)
 # Features
 - ### Updated Environment Textures
 Each environment's textures (except for Snow) have been replaced or modified to include textures from TrackMania² environments. This effectively gives TMU a fresh and modern look, going beyond what Nadeo envisioned originally.
