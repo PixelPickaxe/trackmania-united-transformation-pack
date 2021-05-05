@@ -12,12 +12,13 @@
 main {
 	margin-left: 3em;
 	margin-right: 3em;
-	font-size: larger	
+	font-size: larger
 }
 
 a {
 	color: #ffffff;
-	text-decoration:underline}
+	text-decoration: underline
+}
 
 a:visited {
 	color: #ffffff;
@@ -89,35 +90,27 @@ div.nav {
 
 div.home-about {
 	display: flex;
-	
 }
 
 div.home-about-desc h3 {
-
 	padding-left: .2em;
-	background-image: linear-gradient(to right ,black,#161616);
+	background-image: linear-gradient(to right, black, #161616);
 }
-
-/* img.home-about-img {
-	max-width: 600px;
-	background-color: #000000;
-	padding: .85em;
-	margin-top: 5px;
-	display:flex;
-}*/
 
 h3.home-features {
 	padding-left: .2em;
-	background-image: linear-gradient(to top right ,black,#161616);
+	background-image: linear-gradient(to top right, black, #161616);
 }
 
-div.env-comparisons {
-	display: flex;
-	flex-direction: row;
+table.home-rally-table {
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	padding: 2.5px
 }
 
-div.home-stad-table {
-	width: 50%;
+div.home-rally-table {
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -133,7 +126,7 @@ table.home-stad-table tr td img {
 }
 
 div.home-des-table {
-	width: 50%;
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -149,7 +142,7 @@ table.home-des-table tr td img {
 }
 
 div.home-coas-table {
-	width: 50%;
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -165,7 +158,7 @@ table.home-coas-table tr td img {
 }
 
 div.home-isla-table {
-	width: 50%;
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -181,7 +174,7 @@ table.home-isla-table tr td img {
 }
 
 div.home-bay-table {
-	width: 50%;
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -197,7 +190,7 @@ table.home-bay-table tr td img {
 }
 
 div.home-rally-table {
-	width: 50%;
+	margin: 2em;
 	padding: .1em;
 }
 
@@ -213,7 +206,8 @@ table.home-rally-table tr td img {
 }
 
 div.home-menu-table {
-	width: 100%
+	margin: 2em;
+	padding: .1em;
 }
 
 table.home-menu-table {
@@ -228,7 +222,8 @@ table.home-menu-table tr td img {
 }
 
 div.home-hud-table {
-	width: 100%;
+	margin: 2em;
+	padding: .1em;
 }
 
 table.home-hud-table {
@@ -319,14 +314,14 @@ div#max {
 
 div.help-blocks h2 {
 	padding-left: .2em;
-	background-image: linear-gradient(to right ,black,#161616);
+	background-image: linear-gradient(to right, black, #161616);
 }
 
 div.help-blocks h3 {
 	margin-left: 1em;
 	background: black;
 	padding: .2em;
-	background-image: linear-gradient(to top right,black,#161616);
+	background-image: linear-gradient(to top right, black, #161616);
 
 }
 
@@ -356,6 +351,7 @@ h2#download-h2 {
 	background: black;
 	padding: .2em;
 }
+
 div.download-main {
 	flex-direction: row;
 	display: flex;
