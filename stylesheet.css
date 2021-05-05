@@ -122,6 +122,7 @@ div.home-about-desc h3 {
 	padding-left: .2em;
 	background-image: linear-gradient(to right, black, #161616);
 }
+
 div.home-two{
 	flex-direction: row;
 	display:flex;
