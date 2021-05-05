@@ -12,12 +12,12 @@
 main {
 	margin-left: 3em;
 	margin-right: 3em;
-	font-size: larger
+	font-size: larger	
 }
 
 a {
 	color: #ffffff;
-}
+	text-decoration:underline}
 
 a:visited {
 	color: #ffffff;
