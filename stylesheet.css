@@ -45,7 +45,8 @@ hr {
 		color: transparent;
 		background: transparent;
 		font-weight: 900;
-		border:transparent solid 900px
+		border:transparent solid 900px;
+		display: none
 
 	}
 }
