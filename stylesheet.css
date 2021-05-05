@@ -287,6 +287,7 @@ table.home-hud-table tr td img {
 		flex-direction: column;
 		display: flex;
 	}
+
 	table.home-two-table-ui {
 		background-color: black;
 		text-align: center;
@@ -295,11 +296,13 @@ table.home-hud-table tr td img {
 		margin: auto
 	}
 }
+
 @media(max-width: 1279px) {
 	div.home-two {
 		flex-direction: column;
 		display: flex;
 	}
+
 	table.home-two-table-ui {
 		background-color: black;
 		text-align: center;
@@ -308,6 +311,7 @@ table.home-hud-table tr td img {
 		margin: auto
 	}
 }
+
 /* MAIN HOME END */
 
 /*------------------------------------------------------------*/
