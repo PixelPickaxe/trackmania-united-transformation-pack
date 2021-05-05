@@ -69,7 +69,7 @@ div.navbar {
 	border-bottom: dashed;
 	border-color: black;
 	flex-direction: row;
-	background-color: #181D3A;
+	background-image: linear-gradient(to bottom left, black, #181D3A);
 	font-size: x-large;
 }
 
@@ -89,11 +89,13 @@ div.nav {
 
 div.home-about {
 	display: flex;
+	
 }
 
 div.home-about-desc h3 {
-	background-color: black;
+
 	padding-left: .2em;
+	background-image: linear-gradient(to right ,black,#161616);
 }
 
 /* img.home-about-img {
@@ -105,8 +107,8 @@ div.home-about-desc h3 {
 }*/
 
 h3.home-features {
-	background-color: black;
 	padding-left: .2em;
+	background-image: linear-gradient(to top right ,black,#161616);
 }
 
 div.env-comparisons {
@@ -316,14 +318,16 @@ div#max {
 }
 
 div.help-blocks h2 {
-	background-color: black;
 	padding-left: .2em;
+	background-image: linear-gradient(to right ,black,#161616);
 }
 
 div.help-blocks h3 {
 	margin-left: 1em;
 	background: black;
-	padding: .2em
+	padding: .2em;
+	background-image: linear-gradient(to top right,black,#161616);
+
 }
 
 p#step {
@@ -352,7 +356,6 @@ h2#download-h2 {
 	background: black;
 	padding: .2em;
 }
-
 div.download-main {
 	flex-direction: row;
 	display: flex;
@@ -515,6 +518,7 @@ div.kofi {
 
 div.footblock-cc {
 	height: 100%;
+	background-image: linear-gradient(to top right, black, #181D3A);
 	position: relative;
 	display: flex;
 	border-top: dashed black .2em;
