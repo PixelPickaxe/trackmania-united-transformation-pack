@@ -25,20 +25,6 @@ Each environment's textures (except for Snow) have been replaced or modified to 
 |![c10](https://user-images.githubusercontent.com/32438273/112358603-e0dd6e80-8ca6-11eb-9be8-b47628a13a74.jpg)|![c11](https://user-images.githubusercontent.com/32438273/112358497-c86d5400-8ca6-11eb-9af7-5bedb9b1cdb3.jpg)|
 |![b40](https://user-images.githubusercontent.com/32438273/112357315-c9ea4c80-8ca5-11eb-8c6f-106bea8a25d7.jpg)|![b41](https://user-images.githubusercontent.com/32438273/112356193-b985a200-8ca4-11eb-8ed6-efba7b40dd61.jpg)|
 |![c0](https://user-images.githubusercontent.com/32438273/112362366-bd1c2780-8caa-11eb-8361-dcbb21083c73.jpg)|![c1](https://user-images.githubusercontent.com/32438273/112363043-77ac2a00-8cab-11eb-92ad-d76b66ffda92.jpg)|
-### COAST
-|Before|After|
-| :------------: | :----------: |
-|||
-|||
-|||
-|||
-### ISLAND
-|Before|After|
-| :------------: | :----------: |
-|||
-|||
-|||
-|||
 ### BAY
 |Before|After|
 | :------------: | :----------: |
