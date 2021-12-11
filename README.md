@@ -63,9 +63,13 @@ For environmental, surface, and impact sounds, I did my best to pick the sounds 
 
 
 # Installation
+Overwrite the GameData directory in your TMU installation location with the GameData folder found in the archive.
 
 # Post-Installation
+Play the game and look at all the new changes.
+
 # Uninstallation
+Verify your game files through Steam.
 
 ## Legal
 All Rights Reserved. Ubisoft, Ubi.com, Maniaplanet, the Maniaplanet logo, Nadeo, the Ubisoft logo, and the Nadeo logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.
