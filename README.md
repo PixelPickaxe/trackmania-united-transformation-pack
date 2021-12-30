@@ -1,7 +1,6 @@
 [![url](http://internetometer.com/image/48075.png)](http://internetometer.com/give/48075)
 
 # TrackMania United Transformation Pack
-⚠️CURRENTLY THERE IS NO RELEASE AVAILABLE. I'M STILL WORKING ON IT, BUT CHECK BACK REGULARLY FOR UPDATES. ONCE IT'S RELEASED, I'LL MAKE SOME NOISE ONLINE⚠️
 ## About
 **TrackMania United Transformation Pack** (TMUTP) is an unofficial visual enhancement modification for TrackMania United Forever (TMU).
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
