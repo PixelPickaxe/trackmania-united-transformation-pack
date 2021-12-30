@@ -2,7 +2,7 @@
 
 # TrackMania United Transformation Pack
 ## About
-[**TrackMania United Transformation Pack** (TMUTP)](https://pixelpickaxe.github.io/trackmania-united-transformation-pack/) is an unofficial visual enhancement modification for TrackMania United Forever (TMU).
+[**TrackMania United Transformation Pack**](https://pixelpickaxe.github.io/trackmania-united-transformation-pack/) (TMUTP) is an unofficial visual enhancement modification for TrackMania United Forever (TMU).
 Its goal is to modernize the game's graphics, bringing them closer to today's standards.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J12HL94)
